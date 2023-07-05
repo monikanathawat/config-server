@@ -8,7 +8,13 @@ spring:
         git:
           uri : https://github.com/monikanathawat/config-server/
           clone-on-start : true
+          skipSslValidation : true
 
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
 
 # App config
 server:
