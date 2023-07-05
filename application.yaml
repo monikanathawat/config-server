@@ -1,8 +1,10 @@
 
 wellcome-message:
   value: "Test"
-
-
+  
+product:
+  service: "I am in local"
+  
 eureka:
   instance:
     prefer-ip-address: true
