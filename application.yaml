@@ -9,8 +9,10 @@ spring:
           uri : https://github.com/monikanathawat/config-server/
           clone-on-start : true
           skipSslValidation : true
+
 wellcome-message:
   value: "Test"
+
 management:
   endpoints:
     web:
