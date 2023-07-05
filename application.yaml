@@ -1,9 +1,9 @@
 
 wellcome-message:
-  value: "Test"
+  value: "Git"
   
 product:
-  service: "I am in local"
+  service: "I am in git"
   
 eureka:
   instance:
