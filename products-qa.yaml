@@ -32,4 +32,6 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka
 
+product:
+  service: "I am in qa"
 
